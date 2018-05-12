@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32882'
     url: http://www.gutenberg.org/2009/agents/32882
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27745#The-True-Story-of-the-American-Flag
 gutenberg_issued: '2009-01-08'
 gutenberg_type: Text
 identifiers:
